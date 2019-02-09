@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: bCNC Japanese\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-09 20:44+0100\n"
-"PO-Revision-Date: 2018-12-09 20:44+0100\n"
+"PO-Revision-Date: 2019-02-09 13:06+0900\n"
 "Last-Translator: @SteveMoto [GitHub]\n"
 "Language-Team: hoge\n"
 "Language: ja_JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 2.2.1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
@@ -93,45 +93,45 @@ msgstr ""
 #: bCNC/ToolsPage.py:554 bCNC/ToolsPage.py:555 bCNC/ToolsPage.py:556
 #, fuzzy
 msgid "Control-"
-msgstr "コントローラー"
+msgstr "コントロール"
 
 #: bCNC/ToolsPage.py:570
 #, fuzzy
 msgid "Align Camera"
-msgstr "カメラ"
+msgstr "カメラの調整"
 
 #: bCNC/ToolsPage.py:571
 msgid "Align Camera Width"
-msgstr ""
+msgstr "カメラ幅"
 
 #: bCNC/ToolsPage.py:572
 msgid "Align Camera Height"
-msgstr ""
+msgstr "カメラ高さ"
 
 #: bCNC/ToolsPage.py:573
 msgid "Align Camera Angle"
-msgstr ""
+msgstr "カメラ角度"
 
 #: bCNC/ToolsPage.py:574
 #, fuzzy
 msgid "Web Camera"
-msgstr "カメラ"
+msgstr "Webカメラ"
 
 #: bCNC/ToolsPage.py:575
 msgid "Web Camera Width"
-msgstr ""
+msgstr "Webカメラ幅"
 
 #: bCNC/ToolsPage.py:576
 msgid "Web Camera Height"
-msgstr ""
+msgstr "Webカメラ高さ"
 
 #: bCNC/ToolsPage.py:577
 msgid "Web Camera Angle"
-msgstr ""
+msgstr "Webカメラ角度"
 
 #: bCNC/ToolsPage.py:588
 msgid "Units (inches)"
-msgstr ""
+msgstr "単位(インチ)"
 
 #: bCNC/ToolsPage.py:589
 #, fuzzy
@@ -140,11 +140,11 @@ msgstr "レーザーカッター"
 
 #: bCNC/ToolsPage.py:590
 msgid "Laser Adaptive Power"
-msgstr ""
+msgstr "レーザー適応力"
 
 #: bCNC/ToolsPage.py:591
 msgid "Double Size Icon"
-msgstr ""
+msgstr "2倍のアイコン"
 
 #: bCNC/ToolsPage.py:592
 msgid "Acceleration x"
@@ -184,11 +184,11 @@ msgstr "z軸 可動域"
 
 #: bCNC/ToolsPage.py:601
 msgid "Decimal digits"
-msgstr ""
+msgstr "小数点以下＿桁"
 
 #: bCNC/ToolsPage.py:602
 msgid "Plotting Arc accuracy"
-msgstr ""
+msgstr "円弧精度のプロット"
 
 #: bCNC/ToolsPage.py:603
 msgid "Start up"
@@ -204,15 +204,15 @@ msgstr "スピンドル 最高回転数 (RPM)"
 
 #: bCNC/ToolsPage.py:606
 msgid "DRO Zero padding"
-msgstr "DRO"
+msgstr "DRO(デジタル読み出し）ゼロパディング"
 
 #: bCNC/ToolsPage.py:607
 msgid "Header gcode"
-msgstr ""
+msgstr "Gコードのヘッダー"
 
 #: bCNC/ToolsPage.py:608
 msgid "Footer gcode"
-msgstr ""
+msgstr "Gコードのフッター"
 
 #: bCNC/ToolsPage.py:630 bCNC/ToolsPage.py:656 bCNC/ToolsPage.py:685
 #: bCNC/ToolsPage.py:712 bCNC/ToolsPage.py:801 bCNC/ToolsPage.py:836
@@ -232,64 +232,64 @@ msgstr ""
 #: bCNC/plugins/TrochoidPath.py:39 bCNC/plugins/bowl.py:110
 #: bCNC/plugins/arcfit.py:33 bCNC/plugins/scaling.py:41
 msgid "Name"
-msgstr ""
+msgstr "名前"
 
 #: bCNC/ToolsPage.py:631 bCNC/ToolsPage.py:657 bCNC/ToolsPage.py:686
 #: bCNC/EditorPage.py:254
 msgid "Comment"
-msgstr ""
+msgstr "コメント"
 
 #: bCNC/ToolsPage.py:632 bCNC/ToolsPage.py:716 bCNC/plugins/scaling.py:45
 msgid "Feed"
-msgstr ""
+msgstr "送り速度"
 
 #: bCNC/ToolsPage.py:633 bCNC/ToolsPage.py:717 bCNC/plugins/scaling.py:46
 msgid "Plunge Feed"
-msgstr ""
+msgstr "プランジ送り"
 
 #: bCNC/ToolsPage.py:634 bCNC/ToolsPage.py:715
 msgid "Depth Increment"
-msgstr ""
+msgstr "軸方向の切込み深さ"
 
 #: bCNC/ToolsPage.py:658 bCNC/lib/bFileDialog.py:274
 msgid "Type"
-msgstr ""
+msgstr "エンドミルの種類"
 
 #: bCNC/ToolsPage.py:659
 msgid "Shape"
-msgstr ""
+msgstr "エンドミル形状"
 
 #: bCNC/ToolsPage.py:660 bCNC/ToolsPage.py:687 bCNC/ToolsPage.py:1176
 msgid "Material"
-msgstr ""
+msgstr "材質"
 
 #: bCNC/ToolsPage.py:661
 msgid "Coating"
-msgstr ""
+msgstr "コーティング"
 
 #: bCNC/ToolsPage.py:662 bCNC/plugins/bowl.py:111
 msgid "Diameter"
-msgstr ""
+msgstr "直径"
 
 #: bCNC/ToolsPage.py:663
 msgid "Mount Axis"
-msgstr ""
+msgstr "固定軸径"
 
 #: bCNC/ToolsPage.py:664
 msgid "Flutes"
-msgstr ""
+msgstr "刃数"
 
 #: bCNC/ToolsPage.py:665
 msgid "Length"
-msgstr ""
+msgstr "長さ"
 
 #: bCNC/ToolsPage.py:666
 msgid "Angle"
-msgstr ""
+msgstr "角度"
 
 #: bCNC/ToolsPage.py:667
 msgid "Stepover %"
-msgstr ""
+msgstr "ステップオーバー量 (%)"
 
 #: bCNC/ToolsPage.py:688
 msgid "Safe Z"
@@ -301,90 +301,97 @@ msgstr ""
 
 #: bCNC/ToolsPage.py:690
 msgid "Thickness"
-msgstr ""
+msgstr "厚さ"
 
 #: bCNC/ToolsPage.py:714 bCNC/ToolsPage.py:803 bCNC/plugins/driller.py:44
 #: bCNC/plugins/spirograph.py:106
 msgid "Target Depth"
-msgstr ""
+msgstr "目標深さ"
 
 #: bCNC/ToolsPage.py:718
 msgid "Cutting strategy"
-msgstr ""
+msgstr "カッタパスの選択"
 
 #: bCNC/ToolsPage.py:719
 msgid "Ramp length"
-msgstr ""
+msgstr "ランピング加工の水平方向長さ"
 
 #: bCNC/ToolsPage.py:719
 msgid ""
 "positive value = relative to tool diameter (5 to 10 probably makes sense), "
 "negative = absolute ramp distance (you probably don't need this)"
 msgstr ""
+"「正の値=工具径に対する相対値（5〜10がおそらく意味があります）」\"負=絶対ラン"
+"プ距離（おそらくこれは必要ないでしょう）\""
 
 #: bCNC/ToolsPage.py:720
 msgid "First cut at surface height"
-msgstr ""
+msgstr "表面高さで切削開始"
 
 #: bCNC/ToolsPage.py:721
 msgid "Spring pass"
-msgstr ""
+msgstr "スプリングパス"
 
 #: bCNC/ToolsPage.py:721
 msgid ""
 "Do the last cut once more in opposite direction. Helix bottom is disabled in "
 "such case."
 msgstr ""
+"最後のカットを反対方向にもう一度行い、工具のふれによるストック残りを除去しま"
+"す。スプリングカットとも呼ばれます。"
 
 #: bCNC/ToolsPage.py:722
 msgid "Exit strategy (usefull for threads)"
-msgstr ""
+msgstr "退避方法 (usefull for threads)"
 
 #: bCNC/ToolsPage.py:722
 msgid "You should probably always use 'on path', unless you are threadmilling!"
 msgstr ""
+"あなたがネジ切りをしているのでなければ、基本的に 'on path'を使うべきです！"
 
 #: bCNC/ToolsPage.py:723
 msgid "Leave islands uncut"
-msgstr ""
+msgstr "島を切り取らない"
 
 #: bCNC/ToolsPage.py:724
 msgid "Only leave selected islands uncut"
-msgstr ""
+msgstr "選択した島のみを切り取らない"
 
 #: bCNC/ToolsPage.py:725
 msgid "Compensate islands for cutter radius"
-msgstr ""
+msgstr "工具半径で島を補正"
 
 #: bCNC/ToolsPage.py:725
 msgid ""
 "Add additional margin/offset around islands to compensate for endmill "
 "radius. This is automaticaly done for all islands if they are marked as tabs."
 msgstr ""
+"エンドミルの半径を補正するために、島の周りに余白・オフセットを追加します。タ"
+"ブとしてマークされている場合、これはすべての島に対して自動的に行われます。"
 
 #: bCNC/ToolsPage.py:726
 msgid "Cut contours of selected islands"
-msgstr ""
+msgstr "選択した島の輪郭をカットする"
 
 #: bCNC/ToolsPage.py:791
 msgid "CUT selected paths"
-msgstr ""
+msgstr "選択したパスをカット"
 
 #: bCNC/ToolsPage.py:802
 msgid "Drill in center only"
-msgstr ""
+msgstr "先端だけで穴をあける"
 
 #: bCNC/ToolsPage.py:804
 msgid "Peck depth"
-msgstr ""
+msgstr "ペック高さ"
 
 #: bCNC/ToolsPage.py:805
 msgid "Dwell (s)"
-msgstr ""
+msgstr "ドウェル時間 (s)"
 
 #: bCNC/ToolsPage.py:806
 msgid "Distance (mm)"
-msgstr ""
+msgstr "距離 (mm)"
 
 #: bCNC/ToolsPage.py:807
 msgid "Number"
@@ -392,38 +399,38 @@ msgstr ""
 
 #: bCNC/ToolsPage.py:826
 msgid "DRILL selected points"
-msgstr ""
+msgstr "選択した点を穴あけ"
 
 #: bCNC/ToolsPage.py:837 bCNC/ToolsPage.py:880 bCNC/ToolsPage.py:1190
 #: bCNC/plugins/Helical_Descent.py:66 bCNC/plugins/TrochoidPath.py:43
 msgid "End Mill"
-msgstr ""
+msgstr "エンドミル"
 
 #: bCNC/ToolsPage.py:837
 msgid "Size of this endmill will be used as offset distance"
-msgstr ""
+msgstr "このエンドミルのサイズはオフセット距離として使用されます。"
 
 #: bCNC/ToolsPage.py:838 bCNC/plugins/pyrograph.py:44
 #: bCNC/plugins/TrochoidPath.py:41
 msgid "Direction"
-msgstr ""
+msgstr "加工方向"
 
 #: bCNC/ToolsPage.py:838
 msgid "Should we machine on inside or outside of the shape?"
-msgstr ""
+msgstr "形状の内側と外側のどちらで機械加工するべきですか？"
 
 #: bCNC/ToolsPage.py:839 bCNC/plugins/TrochoidPath.py:42
 msgid "Additional offset distance"
-msgstr ""
+msgstr "追加オフセット距離"
 
 #: bCNC/ToolsPage.py:840 bCNC/plugins/box.py:316
 #: bCNC/plugins/TrochoidPath.py:45
 msgid "Overcut"
-msgstr ""
+msgstr "オーバーカット"
 
 #: bCNC/ToolsPage.py:840
 msgid "Sets if we want to overcut or not."
-msgstr ""
+msgstr "オーバーカットしたいかどうかを設定します。"
 
 #: bCNC/ToolsPage.py:841 bCNC/ToolsPage.py:1292
 msgid "Pocket"
@@ -433,117 +440,122 @@ msgstr "ポケット"
 msgid ""
 "Generate pocket after profiling? Usefull for making pockets with overcuts."
 msgstr ""
+"プロファイリング後にポケットを生成しますか？オーバーカットのポケットを作るの"
+"に便利です。"
 
 #: bCNC/ToolsPage.py:869
 msgid "Generate profile path"
-msgstr ""
+msgstr "プロファイルパスを生成する"
 
 #: bCNC/ToolsPage.py:893
 msgid "Generate pocket path"
-msgstr ""
+msgstr "ポケットパスを生成する"
 
 #: bCNC/ToolsPage.py:904
 msgid "Create circular tabs (constant width in all angles)"
-msgstr ""
+msgstr "円形のタブを作成します。(すべての角度で一定の幅)"
 
 #: bCNC/ToolsPage.py:904
 msgid ""
 "You should only use circular tabs, they are better in all ways. I've left "
 "the rectangles here just so people can experiment and get used to circular "
-"ones, but i think they can be safely deprecated."
+"ones, but I think they can be safely deprecated."
 msgstr ""
+"円形のタブのみを使用してください。それはあらゆる点で優れています。ここにある"
+"長方形は、人々が実験して円形に慣れるためのものです。しかし、それらは安全に廃"
+"止される可能性があると思います。"
 
 #: bCNC/ToolsPage.py:905
 msgid "Number of tabs"
-msgstr ""
+msgstr "タブの数"
 
 #: bCNC/ToolsPage.py:906
 msgid "Min. Distance of tabs"
-msgstr ""
+msgstr "最小タブ間距離"
 
 #: bCNC/ToolsPage.py:909
 msgid "Height"
-msgstr ""
+msgstr "高さ"
 
 #: bCNC/ToolsPage.py:935
 msgid "Tabs error"
-msgstr ""
+msgstr "タブエラー"
 
 #: bCNC/ToolsPage.py:936
 msgid "You cannot have both the number of tabs or distance equal to zero"
-msgstr ""
+msgstr "タブの数と距離の両方をゼロにすることはできません。"
 
 #: bCNC/ToolsPage.py:941
 msgid "Create tabs on blocks"
-msgstr ""
+msgstr "ブロックにタブを作成する"
 
 #: bCNC/ToolsPage.py:951
 msgid "$0 Step pulse time [us]"
-msgstr ""
+msgstr "$0 ステップパルス時間 [ミリ秒]"
 
 #: bCNC/ToolsPage.py:952
 msgid "$1 Step idle delay [ms]"
-msgstr ""
+msgstr "$1 ステップ休止時間 [ミリ秒]"
 
 #: bCNC/ToolsPage.py:953
 msgid "$2 Step port invert [mask]"
-msgstr ""
+msgstr "$2 ステップポート反転 [mask]"
 
 #: bCNC/ToolsPage.py:954
 msgid "$3 Direction port invert [mask]"
-msgstr ""
+msgstr "$3 方向ポート反転 [mask]"
 
 #: bCNC/ToolsPage.py:955
 msgid "$4 Step enable invert"
-msgstr ""
+msgstr "$4 ステップ反転有効化"
 
 #: bCNC/ToolsPage.py:956
 msgid "$5 Limit pins invert"
-msgstr ""
+msgstr "$5 リミットピン反転"
 
 #: bCNC/ToolsPage.py:957
 msgid "$6 Probe pin invert"
-msgstr ""
+msgstr "$6 プローブピン(探り針)反転"
 
 #: bCNC/ToolsPage.py:958
 msgid "$10 Status report [mask]"
-msgstr ""
+msgstr "$10 ステータス情報報告 [mask]"
 
 #: bCNC/ToolsPage.py:959
 msgid "$11 Junction deviation [mm]"
-msgstr ""
+msgstr "$11 ジャンクション偏差 [mm]"
 
 #: bCNC/ToolsPage.py:960
 msgid "$12 Arc tolerance [mm]"
-msgstr ""
+msgstr "$12 円弧公差 [mm]"
 
 #: bCNC/ToolsPage.py:961
 msgid "$13 Report inches"
-msgstr ""
+msgstr "$13 座標管理単位変更(インチ)"
 
 #: bCNC/ToolsPage.py:962
 msgid "$20 Soft limits"
-msgstr ""
+msgstr "$20 ソフトリミット"
 
 #: bCNC/ToolsPage.py:963
 msgid "$21 Hard limits"
-msgstr ""
+msgstr "$21 ハードリミット"
 
 #: bCNC/ToolsPage.py:964
 msgid "$22 Homing cycle"
-msgstr ""
+msgstr "$22 原点出し"
 
 #: bCNC/ToolsPage.py:965
 msgid "$23 Homing direction invert [mask]"
-msgstr ""
+msgstr "$23 原点出し方向反転 [mask]"
 
 #: bCNC/ToolsPage.py:966
 msgid "$24 Homing feed [mm/min]"
-msgstr ""
+msgstr "$24 原点出し2度目送り速度 [mm/min]"
 
 #: bCNC/ToolsPage.py:967
 msgid "$25 Homing seek [mm/min]"
-msgstr ""
+msgstr "$25 原点出し初回送り速度 [mm/min]"
 
 #: bCNC/ToolsPage.py:968
 msgid "$26 Homing debounce [ms]"
@@ -551,79 +563,79 @@ msgstr ""
 
 #: bCNC/ToolsPage.py:969
 msgid "$27 Homing pull-off [mm]"
-msgstr ""
+msgstr "$27 原点出し後退距離 [mm]"
 
 #: bCNC/ToolsPage.py:970
 msgid "$30 Max spindle speed [RPM]"
-msgstr ""
+msgstr "$30 最大スピンドル速度 [RPM]"
 
 #: bCNC/ToolsPage.py:971
 msgid "$31 Min spindle speed [RPM]"
-msgstr ""
+msgstr "$31 最小スピンドル速度 [RPM]"
 
 #: bCNC/ToolsPage.py:972
 msgid "$32 Laser mode enable"
-msgstr ""
+msgstr "$32 レーザーモード有効化"
 
 #: bCNC/ToolsPage.py:973
 msgid "$100 X steps/mm"
-msgstr ""
+msgstr "$100 X軸は何パルスで1mm動くか [steps/mm]"
 
 #: bCNC/ToolsPage.py:974
 msgid "$101 Y steps/mm"
-msgstr ""
+msgstr "$101 Y軸は何パルスで1mm動くか [steps/mm]"
 
 #: bCNC/ToolsPage.py:975
 msgid "$102 Z steps/mm"
-msgstr ""
+msgstr "$102 Z軸は何パルスで1mm動くか [steps/mm]"
 
 #: bCNC/ToolsPage.py:976
 msgid "$110 X max rate [mm/min]"
-msgstr ""
+msgstr "$110 X軸最高移動速度 [mm/min]"
 
 #: bCNC/ToolsPage.py:977
 msgid "$111 Y max rate [mm/min]"
-msgstr ""
+msgstr "$111 Y軸最高移動速度 [mm/min]"
 
 #: bCNC/ToolsPage.py:978
 msgid "$112 Z max rate [mm/min]"
-msgstr ""
+msgstr "$112 Z軸最高移動速度 [mm/min]"
 
 #: bCNC/ToolsPage.py:979
 msgid "$120 X acceleration [mm/sec^2]"
-msgstr ""
+msgstr "$120 X軸加速度 [mm/sec^2]"
 
 #: bCNC/ToolsPage.py:980
 msgid "$121 Y acceleration [mm/sec^2]"
-msgstr ""
+msgstr "$121 Y軸加速度 [mm/sec^2]"
 
 #: bCNC/ToolsPage.py:981
 msgid "$122 Z acceleration [mm/sec^2]"
-msgstr ""
+msgstr "$122 Z軸加速度 [mm/sec^2]"
 
 #: bCNC/ToolsPage.py:982
 msgid "$130 X max travel [mm]"
-msgstr ""
+msgstr "$130 X軸最大移動距離 [mm]"
 
 #: bCNC/ToolsPage.py:983
 msgid "$131 Y max travel [mm]"
-msgstr ""
+msgstr "$131 Y軸最大移動距離 [mm]"
 
 #: bCNC/ToolsPage.py:984
 msgid "$132 Z max travel [mm]"
-msgstr ""
+msgstr "$132 Z軸最大移動距離 [mm]"
 
 #: bCNC/ToolsPage.py:985
 msgid "$140 X homing pull-off [mm]"
-msgstr ""
+msgstr "$140 X軸原点出し後退距離 [mm]"
 
 #: bCNC/ToolsPage.py:986
 msgid "$141 Y homing pull-off [mm]"
-msgstr ""
+msgstr "$141 Y軸原点出し後退距離 [mm]"
 
 #: bCNC/ToolsPage.py:987
 msgid "$142 Z homing pull-off [mm]"
-msgstr ""
+msgstr "$142 Z軸原点出し後退距離 [mm]"
 
 #: bCNC/ToolsPage.py:1155
 msgid "Database"
@@ -707,7 +719,7 @@ msgstr "ドリル"
 
 #: bCNC/ToolsPage.py:1313
 msgid "Insert a drill cycle on current objects/location"
-msgstr ""
+msgstr "現在のオブジェクト/場所にドリルサイクルを挿入する"
 
 #: bCNC/ToolsPage.py:1320
 msgid "Tabs"
@@ -719,11 +731,11 @@ msgstr "固定タブの挿入"
 
 #: bCNC/ToolsPage.py:1335
 msgid "Island"
-msgstr ""
+msgstr "島"
 
 #: bCNC/ToolsPage.py:1341
 msgid "Toggle island"
-msgstr ""
+msgstr "島切替"
 
 #: bCNC/ToolsPage.py:1457 bCNC/ToolsPage.py:1509
 msgid "Config"
@@ -731,7 +743,7 @@ msgstr "設定"
 
 #: bCNC/ToolsPage.py:1472
 msgid "Change program language restart is required"
-msgstr "言語を変更 再起動が必要です"
+msgstr "言語を変更しました。再起動が必要です。"
 
 #: bCNC/ToolsPage.py:1481 bCNC/ProbePage.py:106 bCNC/ProbePage.py:1339
 msgid "Camera"
@@ -967,7 +979,7 @@ msgstr "すべてのブロックを選択 [Ctrl-A]"
 
 #: bCNC/EditorPage.py:93
 msgid "None"
-msgstr ""
+msgstr "無し"
 
 #: bCNC/EditorPage.py:98
 msgid "Unselect all blocks [Ctrl-Shift-A]"
@@ -991,7 +1003,7 @@ msgstr "現在のレイヤーのすべてのブロックを選択"
 
 #: bCNC/EditorPage.py:128
 msgid "Filter"
-msgstr ""
+msgstr "フィルター"
 
 #: bCNC/EditorPage.py:133
 msgid "Filter blocks"
@@ -1003,7 +1015,7 @@ msgstr "編集"
 
 #: bCNC/EditorPage.py:149 bCNC/ProbePage.py:94 bCNC/ProbePage.py:983
 msgid "Autolevel"
-msgstr ""
+msgstr "平面出し"
 
 #: bCNC/EditorPage.py:150 bCNC/CNCList.py:718
 msgid "Color"
@@ -1015,7 +1027,7 @@ msgstr "インポート"
 
 #: bCNC/EditorPage.py:152
 msgid "Postprocess Inkscape g-code"
-msgstr ""
+msgstr "Inkscapeで作成したGコードを処理"
 
 #: bCNC/EditorPage.py:153
 msgid "Round"
@@ -1027,260 +1039,260 @@ msgstr "新規にブロック, 制御コードを挿入 [Ins or Ctrl-Enter]"
 
 #: bCNC/EditorPage.py:176
 msgid "Line"
-msgstr ""
+msgstr "直線"
 
 #: bCNC/EditorPage.py:178
 msgid "Block"
-msgstr ""
+msgstr "ブロック"
 
 #: bCNC/EditorPage.py:198
 msgid "Clone selected lines or blocks [Ctrl-D]"
-msgstr "選択された直線"
+msgstr "選択された直線又はブロック"
 
 #: bCNC/EditorPage.py:210
 msgid "Delete selected lines or blocks [Del]"
-msgstr ""
+msgstr "選択された直線又はブロックを削除"
 
 #: bCNC/EditorPage.py:222
 msgid "Toggle enable/disable block of g-code [Ctrl-L]"
-msgstr ""
+msgstr "Gコードのブロックの有効/無効を切り替える [Ctrl-L]"
 
 #: bCNC/EditorPage.py:225
 msgid "Enable"
-msgstr ""
+msgstr "有効"
 
 #: bCNC/EditorPage.py:227
 msgid "Disable"
-msgstr ""
+msgstr "無効"
 
 #: bCNC/EditorPage.py:230
 msgid "Active"
-msgstr ""
+msgstr "アクティブ"
 
 #: bCNC/EditorPage.py:236
 msgid "Enable or disable blocks of gcode"
-msgstr ""
+msgstr "Gコードのブロックを有効または無効にする"
 
 #: bCNC/EditorPage.py:242
 msgid "Expand"
-msgstr ""
+msgstr "展開"
 
 #: bCNC/EditorPage.py:247
 msgid "Toggle expand/collapse blocks of gcode [Ctrl-E]"
-msgstr ""
+msgstr "Gコードのブロックの展開/折りたたみを切り替える [Ctrl-E]"
 
 #: bCNC/EditorPage.py:259
 msgid "(Un)Comment selected lines"
-msgstr ""
+msgstr "(未)選択した行をコメント解除"
 
 #: bCNC/EditorPage.py:266
 msgid "Join"
-msgstr ""
+msgstr "結合"
 
 #: bCNC/EditorPage.py:271
 msgid "Join selected blocks"
-msgstr ""
+msgstr "選択したブロックを結合"
 
 #: bCNC/EditorPage.py:277
 msgid "Split"
-msgstr ""
+msgstr "分割"
 
 #: bCNC/EditorPage.py:282
 msgid "Split selected blocks"
-msgstr ""
+msgstr "選択したブロックを分割"
 
 #: bCNC/EditorPage.py:290 bCNC/EditorPage.py:297
 msgid "Move"
-msgstr ""
+msgstr "移動"
 
 #: bCNC/EditorPage.py:305
 msgid "Move objects [M]"
-msgstr ""
+msgstr "オブジェクトを移動 [M]"
 
 #: bCNC/EditorPage.py:312
 msgid "Origin"
-msgstr ""
+msgstr "原点"
 
 #: bCNC/EditorPage.py:320
 msgid "Move all gcode such as origin is on mouse location [O]"
-msgstr ""
+msgstr "マウス位置を原点としてすべてのgcodeを移動"
 
 #: bCNC/EditorPage.py:326
 msgid "Top-Left"
-msgstr ""
+msgstr "左上"
 
 #: bCNC/EditorPage.py:327
 msgid "Left"
-msgstr ""
+msgstr "左"
 
 #: bCNC/EditorPage.py:328
 msgid "Bottom-Left"
-msgstr ""
+msgstr "左下"
 
 #: bCNC/EditorPage.py:329
 msgid "Top"
-msgstr ""
+msgstr "上"
 
 #: bCNC/EditorPage.py:330 bCNC/ProbePage.py:492 bCNC/ProbePage.py:504
 #: bCNC/plugins/center.py:12
 msgid "Center"
-msgstr ""
+msgstr "中心"
 
 #: bCNC/EditorPage.py:331
 msgid "Bottom"
-msgstr ""
+msgstr "下"
 
 #: bCNC/EditorPage.py:332
 msgid "Top-Right"
-msgstr ""
+msgstr "右上"
 
 #: bCNC/EditorPage.py:333
 msgid "Right"
-msgstr ""
+msgstr "右"
 
 #: bCNC/EditorPage.py:334
 msgid "Bottom-Right"
-msgstr ""
+msgstr "右下"
 
 #: bCNC/EditorPage.py:345 bCNC/plugins/hilbert.py:89
 msgid "Order"
-msgstr ""
+msgstr "順序"
 
 #: bCNC/EditorPage.py:346 bCNC/bCNC.py:1480 bCNC/__main__.py:1480
 msgid "Optimize"
-msgstr ""
+msgstr "最適化"
 
 #: bCNC/EditorPage.py:354
 msgid "Up"
-msgstr ""
+msgstr "上に移動"
 
 #: bCNC/EditorPage.py:359
 msgid "Move selected g-code up [Ctrl-Up, Ctrl-PgUp]"
-msgstr ""
+msgstr "選択したGコードを上に移動する [Ctrl-Up, Ctrl-PgUp]"
 
 #: bCNC/EditorPage.py:366
 msgid "Down"
-msgstr ""
+msgstr "下に移動"
 
 #: bCNC/EditorPage.py:371
 msgid "Move selected g-code down [Ctrl-Down, Ctrl-PgDn]"
-msgstr ""
+msgstr "選択したGコードを下に移動する [Ctrl-Down, Ctrl-PgDn]"
 
 #: bCNC/EditorPage.py:383
 msgid "Invert cutting order of selected blocks"
-msgstr ""
+msgstr "選択したブロックの加工順序を反転する"
 
 #: bCNC/EditorPage.py:391
 msgid "Transform"
-msgstr ""
+msgstr "変形"
 
 #: bCNC/EditorPage.py:398
 msgid "CW"
-msgstr ""
+msgstr "時計回り"
 
 #: bCNC/EditorPage.py:404
 msgid "Rotate selected gcode clock-wise (-90deg)"
-msgstr ""
+msgstr "選択したGコードを時計回りに回転する(-90°)"
 
 #: bCNC/EditorPage.py:411
 msgid "Flip"
-msgstr ""
+msgstr "反転"
 
 #: bCNC/EditorPage.py:417
 msgid "Rotate selected gcode by 180deg"
-msgstr ""
+msgstr "選択したGコードを180°回転する"
 
 #: bCNC/EditorPage.py:424
 msgid "CCW"
-msgstr ""
+msgstr "反時計回り"
 
 #: bCNC/EditorPage.py:430
 msgid "Rotate selected gcode counter-clock-wise (90deg)"
-msgstr ""
+msgstr "選択したGコードを反時計回りに回転する(90°)"
 
 #: bCNC/EditorPage.py:437
 msgid "Horizontal"
-msgstr ""
+msgstr "水平"
 
 #: bCNC/EditorPage.py:443
 msgid "Mirror horizontally X=-X selected gcode"
-msgstr ""
+msgstr "選択したGコードを水平方向にミラーリング (X=-X)"
 
 #: bCNC/EditorPage.py:450
 msgid "Vertical"
-msgstr ""
+msgstr "垂直"
 
 #: bCNC/EditorPage.py:456
 msgid "Mirror vertically Y=-Y selected gcode"
-msgstr ""
+msgstr "選択したGコードを垂直方向にミラーリング (Y=-Y)"
 
 #: bCNC/EditorPage.py:467
 msgid "Route"
-msgstr ""
+msgstr "軌跡"
 
 #: bCNC/EditorPage.py:474
 msgid "Conventional"
-msgstr ""
+msgstr "アップカット"
 
 #: bCNC/EditorPage.py:480
 msgid "Change cut direction to conventional for selected gcode blocks"
-msgstr ""
+msgstr "選択したGコードブロックのカット方向をアップカットに変更"
 
 #: bCNC/EditorPage.py:487
 msgid "Climb"
-msgstr ""
+msgstr "ダウンカット"
 
 #: bCNC/EditorPage.py:493
 msgid "Change cut direction to climb for selected gcode blocks"
-msgstr ""
+msgstr "選択したGコードブロックのカット方向をダウンカットに変更"
 
 #: bCNC/EditorPage.py:500
 msgid "Reverse"
-msgstr ""
+msgstr "逆転"
 
 #: bCNC/EditorPage.py:506
 msgid "Reverse cut direction for selected gcode blocks"
-msgstr ""
+msgstr "選択したGコードブロックのカット方向を反転"
 
 #: bCNC/EditorPage.py:513
 msgid "Cut CW"
-msgstr ""
+msgstr "右回り切削"
 
 #: bCNC/EditorPage.py:519
 msgid "Change cut direction to CW for selected gcode blocks"
-msgstr ""
+msgstr "選択したGコードブロックのカット方向を時計回りに変更"
 
 #: bCNC/EditorPage.py:526
 msgid "Cut CCW"
-msgstr ""
+msgstr "左回り切削"
 
 #: bCNC/EditorPage.py:532
 msgid "Change cut direction to CCW for selected gcode blocks"
-msgstr ""
+msgstr "選択したGコードブロックのカット方向を反時計回りに変更"
 
 #: bCNC/EditorPage.py:540 bCNC/EditorPage.py:560
 msgid "Info"
-msgstr ""
+msgstr "情報"
 
 #: bCNC/EditorPage.py:547 bCNC/bCNC.py:909 bCNC/__main__.py:909
 msgid "Statistics"
-msgstr ""
+msgstr "統計"
 
 #: bCNC/EditorPage.py:553
 msgid "Show statistics for enabled gcode"
-msgstr ""
+msgstr "有効なGコードの統計を表示"
 
 #: bCNC/EditorPage.py:566
 msgid "Show cutting information on selected blocks [Ctrl-n]"
-msgstr ""
+msgstr "選択したブロックのカット情報を表示する [Ctrl + n]"
 
 #: bCNC/EditorPage.py:590
 msgid "GCode editor"
-msgstr ""
+msgstr "Gコードエディタ"
 
 #: bCNC/EditorPage.py:591
 msgid "Editor"
-msgstr ""
+msgstr "エディタ"
 
 #: bCNC/ProbePage.py:30
 msgid "G38.2 stop on contact else error"
@@ -1300,11 +1312,11 @@ msgstr ""
 
 #: bCNC/ProbePage.py:36
 msgid "Send M6 commands"
-msgstr ""
+msgstr "M6コマンドを送信"
 
 #: bCNC/ProbePage.py:37
 msgid "Ignore M6 commands"
-msgstr ""
+msgstr "M6コマンドを無視"
 
 #: bCNC/ProbePage.py:38
 msgid "Manual Tool Change (WCS)"
@@ -1329,7 +1341,7 @@ msgstr ""
 #: bCNC/ProbePage.py:75 bCNC/ProbePage.py:82 bCNC/ProbePage.py:404
 #: bCNC/ProbePage.py:475 bCNC/bCNC.py:91 bCNC/__main__.py:91
 msgid "Probe"
-msgstr ""
+msgstr "探知"
 
 #: bCNC/ProbePage.py:88
 msgid "Simple probing along a direction"
@@ -1337,7 +1349,7 @@ msgstr ""
 
 #: bCNC/ProbePage.py:100
 msgid "Autolevel Z surface"
-msgstr ""
+msgstr "自動Z平面出し"
 
 #: bCNC/ProbePage.py:112
 msgid "Work surface camera view and alignment"
@@ -4081,7 +4093,7 @@ msgstr ""
 #: bCNC/plugins/Helical_Descent.py:210
 #, fuzzy
 msgid "Helical Abort: Please select helical type"
-msgstr "テキストは無視:　フォントファイルを選択してください."
+msgstr "テキストは無視: フォントファイルを選択してください."
 
 #: bCNC/plugins/Helical_Descent.py:214
 msgid "Helical Abort: Helix diameter must be greater than the end mill"
@@ -4103,7 +4115,7 @@ msgstr "ステップパルスは3usecより長い必要があります."
 #: bCNC/plugins/Helical_Descent.py:230
 #, fuzzy
 msgid "Helical Abort: Please selecte Entry and Exit type"
-msgstr "テキストは無視:　フォントファイルを選択してください."
+msgstr "テキストは無視: フォントファイルを選択してください."
 
 #: bCNC/plugins/Helical_Descent.py:234
 msgid "Helical Abort: Entry Edge Clearence may be positive"
@@ -4116,7 +4128,7 @@ msgstr ""
 #: bCNC/plugins/Helical_Descent.py:257
 #, fuzzy
 msgid "Helical abort: Please select some path"
-msgstr "テキストは無視:　フォントファイルを選択してください."
+msgstr "テキストは無視: フォントファイルを選択してください."
 
 #: bCNC/plugins/Helical_Descent.py:397
 msgid "Generated: Helical_Descent Result"
@@ -4510,7 +4522,7 @@ msgstr "テキストは無視: 0より大きいフォントサイズを指定し
 
 #: bCNC/plugins/text.py:63
 msgid "Text abort: please select a font file"
-msgstr "テキストは無視:　フォントファイルを選択してください."
+msgstr "テキストは無視: フォントファイルを選択してください."
 
 #: bCNC/plugins/text.py:90
 msgid "Text abort: That embarrassing, I can't read this font file!"
